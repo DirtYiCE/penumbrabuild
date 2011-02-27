@@ -1,0 +1,6 @@
+*~
+\#*#
+.lock-wafbuild
+.waf-*
+build
+doc

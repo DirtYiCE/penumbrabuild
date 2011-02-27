@@ -1,0 +1,9 @@
+[submodule "OALWrapper"]
+	path = OALWrapper
+	url = git://github.com/FrictionalGames/OALWrapper.git
+[submodule "HPL1Engine"]
+	path = HPL1Engine
+	url = git://github.com/DirtYiCE/HPL1Engine.git
+[submodule "PenumbraOverture"]
+	path = PenumbraOverture
+	url = git://github.com/DirtYiCE/PenumbraOverture.git
